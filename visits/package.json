@@ -1,0 +1,16 @@
+{
+  "name": "Visits",
+  "description": "description",
+  "version": "1.0.0",
+  "author": " <urutu-branco@dostoievski>",
+  "license": "MIT",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "redis": "2.8.0"
+  },
+  "devDependencies": {}
+}

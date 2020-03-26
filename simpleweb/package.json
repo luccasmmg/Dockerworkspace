@@ -1,0 +1,15 @@
+{
+  "name": "simpleweb",
+  "description": "description",
+  "version": "1.0.0",
+  "author": " <urutu-branco@dostoievski>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {}
+}
